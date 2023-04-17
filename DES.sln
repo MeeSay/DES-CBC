@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DES", "DES.vcxproj", "{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}.Debug|x64.ActiveCfg = Debug|x64
+		{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}.Debug|x64.Build.0 = Debug|x64
+		{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}.Debug|x86.Build.0 = Debug|Win32
+		{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}.Release|x64.ActiveCfg = Release|x64
+		{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}.Release|x64.Build.0 = Release|x64
+		{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}.Release|x86.ActiveCfg = Release|Win32
+		{E32C9707-D3F7-44A5-AB9B-F2BA9246FDAF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0C4E1E-E8B5-4FB2-8539-C39DFDC78090}
+	EndGlobalSection
+EndGlobal
